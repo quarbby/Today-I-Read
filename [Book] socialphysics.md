@@ -1,4 +1,5 @@
 # Social Physics by Alex Pentland 
+
 *Link*: https://www.amazon.com/Social-Physics-Networks-Make-Smarter/dp/0143126334
 
 “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty, because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things.1”
