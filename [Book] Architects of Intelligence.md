@@ -1,5 +1,5 @@
 # Architects of Intelligence by Martin Ford
-*Link:* https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J
+**Link:** https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J
 
 ### YOSHUA BENGIO
 
