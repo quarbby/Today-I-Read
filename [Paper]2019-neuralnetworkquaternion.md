@@ -1,8 +1,10 @@
 # Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks 
 
-Authors: Yi Tay, Aston Zhang, Luu Anh Tuan, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui
+**Authors:** Yi Tay, Aston Zhang, Luu Anh Tuan, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui
 
-Link: https://arxiv.org/pdf/1906.04393.pdf
+**Link:** https://arxiv.org/pdf/1906.04393.pdf
+
+**Year:** 2019
 
 **Overview**
 
