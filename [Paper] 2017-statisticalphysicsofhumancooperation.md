@@ -1,5 +1,10 @@
-Authors: Matjaz Perc, Jillian J. Jordan, David G. Rand, Zhen Wang, Stefano Boccaletti, Attila Szolnoki
-Link: https://arxiv.org/pdf/1705.07161.pdf
+# Statistical physics of human cooperation
+
+**Authors:** Matjaz Perc, Jillian J. Jordan, David G. Rand, Zhen Wang, Stefano Boccaletti, Attila Szolnoki
+
+**Link:** https://arxiv.org/pdf/1705.07161.pdf
+
+**Year:** 
 
 This paper reviews experimental and theoretical human experiments that advances the understanding of human group interactions, elaborating on the variations of the Public Goods Game which depict human behaviour.
 
