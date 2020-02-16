@@ -18,3 +18,9 @@ BEND Framework for Influence Campaigns
 - WHOM: Group, individual
 - IMPACT: Polarization, echo-chamberness
 
+- Social Cyber Forensics: Who is acting & Reacting
+- Information Threats & Challenges: How are we attacked?
+- Intent Identification: Why are they doing this?
+- Indicators & Warnings: How can we detect harmful activities? 
+- Inoculation: How can people protect themselves?
+- Countering: What aresponses are most effective in creating resilience?
